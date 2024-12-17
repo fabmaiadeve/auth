@@ -64,7 +64,9 @@ mvn spring-boot:run
 - A aplicação irá subir na porta 8080 nos seguintes end-points: 
 
 Do tipo GET  ==>    http://localhost:8080/free
+
 Do tipo GET  ==>    http://localhost:8080/auth
+
 Do tipo POST ==>    http://localhost:8080/login 
 
 
